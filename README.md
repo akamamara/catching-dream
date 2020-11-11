@@ -1,4 +1,10 @@
 # Catching Dream
+## Pembagian Role
+| No | Nama                   | Role            |
+|----|------------------------|-----------------|
+| 1  | Aldi Oktaviana Hidayat | Game Programmer |
+| 2  | Zahra Aulia Firdausi   | Game Design     |
+| 3  | Syukriyatul Hanifa     | Game Artist     |
 ## Latar Belakang
 Latar belakangnya di dunia mimpi, ada seorang anak kecil yang bernama airy yang terjebak dalam mimpi buruk nah dia harus survive biar bisa terbebas dr mimpi buruk itu, cara dia survive itu dengan cara menghindari para hantu dan monster yang mengganggu mimpi nya, untuk bertahan dan ngejaga agar sanitynya tetap tinggi dia harus mengumpulkan peri-peri yang dapat membantu dia agar tetap sadar untuk bisa bertahan ngelaluin mimpi buruk itu.
 
