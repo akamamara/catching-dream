@@ -36,6 +36,7 @@ Dia ingin terbebas dari mimpi buruk dengan cara survive
 - Batu nisan diatasnya ada monster
 - Pohon bringin + monster dan hantu
 - Top Down view
+- 4 Jalur 
 
 ## Assets
 1. airy
