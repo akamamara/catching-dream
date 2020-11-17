@@ -36,3 +36,38 @@ Dia ingin terbebas dari mimpi buruk dengan cara survive
 - Batu nisan diatasnya ada monster
 - Pohon bringin + monster dan hantu
 - Top Down view
+
+## Assets
+1. airy
+2. hantu
+3. monster
+4. nisan
+5. peri
+6. semacam lubang
+7. bar sanity
+8. rumah di akhir
+9. waktu
+
+sound
+1. sound saat bermain (beda tiap stage (?))
+2. saat mendapat peri
+3. nabrak hantu
+4. nabrak monster
+5. masuk lubang
+6. pas sampai tujuan.
+
+sprite effect (?)
+1. nabrak hantu
+2. nabrak monster
+
+stage pertama
+1. latar tanah gersang retak retak
+2. pohon ga berdaun
+
+stage kedua
+1. tanah mulai hijau
+2. pohonnya mulai numbuh (?)
+
+stage ketiga keempat
+1. tanah hijau
+2. pohon beringin
