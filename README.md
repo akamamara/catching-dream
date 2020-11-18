@@ -42,6 +42,7 @@ Dia ingin terbebas dari mimpi buruk dengan cara survive
 - 4 Jalur 
 
 ## Assets
+### Desain
 1. airy
 2. hantu
 3. monster
@@ -52,7 +53,19 @@ Dia ingin terbebas dari mimpi buruk dengan cara survive
 8. rumah di akhir
 9. waktu
 
-sound
+#### Stage Pertama
+1. latar tanah gersang retak retak
+2. pohon ga berdaun
+
+#### Stage kedua
+1. tanah mulai hijau
+2. pohonnya mulai numbuh (?)
+
+#### Stage ketiga & keempat
+1. tanah hijau
+2. pohon beringin
+
+### Sound
 1. sound saat bermain (beda tiap stage (?))
 2. saat mendapat peri
 3. nabrak hantu
@@ -60,18 +73,6 @@ sound
 5. masuk lubang
 6. pas sampai tujuan.
 
-sprite effect (?)
+### Sprite effect
 1. nabrak hantu
 2. nabrak monster
-
-stage pertama
-1. latar tanah gersang retak retak
-2. pohon ga berdaun
-
-stage kedua
-1. tanah mulai hijau
-2. pohonnya mulai numbuh (?)
-
-stage ketiga keempat
-1. tanah hijau
-2. pohon beringin
