@@ -14,10 +14,13 @@ Stage 2 airy masih bingung tp udh mulai phm
 Stage 3 dia sadar bahwa ada cara buat keluar dr mimpi.buruk.itu
 Stage .. Ternyata dia harus sampe ke fairy golden untuk bisa keluar dri mimpi buruk ini ))
 
+## Ilustrasi game
+![Ilustrasi game sementara](Overview/messageImage_1605661806313.jpg?raw=true "Ilustrasi game sementara")
+
 ## Rules
 Player 1 orang = anak kecil,ada peri, Ada hantu dengan 2 bentuk 1 hantu biasa 1 monster,
 Anak kecil memiliki waktu tertentu (stage 1: 2 menit) untuk bisa bertahan didalam dunia mimpi dan mengambil peri untuk menambah sanitynya, karena sanity akan berkurang seiring berjalannya waktu. Ia juga harus menghindarinya hantu serta monster, apabila ia tertabrak hantu maka sanitynya akan berkurang 15% dan pergerakannya melambat jika ia tertabrak monster maka ia langsung mati.
- 
+
 ## Goals
 Mengumpulkan peri untuk mempertahankan sanitynya agar tetap tinggi sampai waktunya habis, menghindari semua hantu dan monster. 
 
