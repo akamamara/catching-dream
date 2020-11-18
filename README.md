@@ -72,7 +72,3 @@ Dia ingin terbebas dari mimpi buruk dengan cara survive
 4. nabrak monster
 5. masuk lubang
 6. pas sampai tujuan.
-
-### Sprite effect
-1. nabrak hantu
-2. nabrak monster
