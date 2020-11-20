@@ -15,7 +15,7 @@ Stage 3 dia sadar bahwa ada cara buat keluar dr mimpi.buruk.itu
 Stage .. Ternyata dia harus sampe ke fairy golden untuk bisa keluar dri mimpi buruk ini ))
 
 ## Ilustrasi game
-![Ilustrasi game sementara](Overview/messageImage_1605661806313.jpg?raw=true "Ilustrasi game sementara")
+![Ilustrasi game sementara](assetDetail/messageImage_1605661806313.jpg?raw=true "Ilustrasi game sementara")
 
 ## Rules
 Player 1 orang = anak kecil,ada peri, Ada hantu dengan 2 bentuk 1 hantu biasa 1 monster,
