@@ -13,87 +13,207 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-20T18:19:24.695+07:00
-  initializedAtString: 2020-11-20T18:12:12.355+07:00
+  lastUpdatedAtString: 2020-11-23T10:21:10.923+07:00
+  initializedAtString: 2020-11-23T09:38:14.437+07:00
   entries:
-  - path: .vs\catching-dream\v16\.suo
-    fullPath: D:\Works\Grafkom\catching-dream\.vs\catching-dream\v16\.suo
-    projectPath: ..\.vs\catching-dream\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\catching-dream\v16\Browse.VC.db
-    fullPath: D:\Works\Grafkom\catching-dream\.vs\catching-dream\v16\Browse.VC.db
-    projectPath: ..\.vs\catching-dream\v16\Browse.VC.db
+  - path: catchingDream_game\Assets\Prefabs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: .vs\ProjectSettings.json
-    fullPath: D:\Works\Grafkom\catching-dream\.vs\ProjectSettings.json
-    projectPath: ..\.vs\ProjectSettings.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\slnx.sqlite
-    fullPath: D:\Works\Grafkom\catching-dream\.vs\slnx.sqlite
-    projectPath: ..\.vs\slnx.sqlite
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Assets\chara-diam.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\chara-diam.png
-    projectPath: Assets\chara-diam.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Assets\chara-diam.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\chara-diam.png.meta
-    projectPath: Assets\chara-diam.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Assets\Environment.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment.meta
-    projectPath: Assets\Environment.meta
+  - path: catchingDream_game\Assets\Prefabs\Nisan.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Nisan.prefab
+    projectPath: Assets\Prefabs\Nisan.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Grass.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Grass.png
-    projectPath: Assets\Environment\Grass.png
+  - path: catchingDream_game\Assets\Prefabs\Nisan.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Nisan.prefab.meta
+    projectPath: Assets\Prefabs\Nisan.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Grass.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Grass.png.meta
-    projectPath: Assets\Environment\Grass.png.meta
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern01.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern01.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern01.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Grass.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Grass.png
-    projectPath: Assets\Grass.png
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern01.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern01.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern01.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Assets\Grass.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Grass.png.meta
-    projectPath: Assets\Grass.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern02.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern02.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern02.prefab
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Assets\Nisan.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Nisan.png
-    projectPath: Assets\Nisan.png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern02.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern02.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern02.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Assets\Nisan.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Nisan.png.meta
-    projectPath: Assets\Nisan.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern03.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern03.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern03.prefab
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern03.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern03.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern03.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern04.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern04.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern04.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern04.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern04.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern04.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern05.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern05.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern05.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern05.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern05.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern05.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern06.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern06.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern06.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern06.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern06.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern06.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern07.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern07.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern07.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern07.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern07.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern07.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern08.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern08.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern08.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern08.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern08.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern08.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern09.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern09.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern09.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern09.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern09.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern09.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern10.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern10.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern10.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern10.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern10.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern10.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern11.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern11.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern11.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern11.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern11.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern11.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern12.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern12.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern12.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern12.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern12.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern12.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern13.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern13.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern13.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern13.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern13.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern13.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern14.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern14.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern14.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern14.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern14.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern14.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern15.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern15.prefab
+    projectPath: Assets\Prefabs\ObstaclePattern15.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\ObstaclePattern15.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\ObstaclePattern15.prefab.meta
+    projectPath: Assets\Prefabs\ObstaclePattern15.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: catchingDream_game\Assets\Scenes\Level 1.unity
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Level
       1.unity
@@ -101,53 +221,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script.meta
-    projectPath: Assets\Script.meta
+  - path: catchingDream_game\Assets\Script\spawner.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\spawner.cs
+    projectPath: Assets\Script\spawner.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\obstacle.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\obstacle.cs
-    projectPath: Assets\Script\obstacle.cs
+  - path: catchingDream_game\Assets\Script\spawner.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\spawner.cs.meta
+    projectPath: Assets\Script\spawner.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\obstacle.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\obstacle.cs.meta
-    projectPath: Assets\Script\obstacle.cs.meta
+  - path: catchingDream_game\Assets\Script\spawnPoint.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\spawnPoint.cs
+    projectPath: Assets\Script\spawnPoint.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\player.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\player.cs
-    projectPath: Assets\Script\player.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\player.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\player.cs.meta
-    projectPath: Assets\Script\player.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Sprite.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite.meta
-    projectPath: Assets\Sprite.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Sprite\chara-diam - Copy.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam
-      - Copy.png
-    projectPath: Assets\Sprite\chara-diam - Copy.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Sprite\chara-diam - Copy.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam
-      - Copy.png.meta
-    projectPath: Assets\Sprite\chara-diam - Copy.png.meta
+  - path: catchingDream_game\Assets\Script\spawnPoint.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\spawnPoint.cs.meta
+    projectPath: Assets\Script\spawnPoint.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -155,83 +249,41 @@ MonoBehaviour:
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam.png
     projectPath: Assets\Sprite\chara-diam.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Sprite\chara-diam.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam.png.meta
-    projectPath: Assets\Sprite\chara-diam.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Assets\Sprite\Nisan.png
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\Nisan.png
     projectPath: Assets\Sprite\Nisan.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Sprite\Nisan.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\Nisan.png.meta
-    projectPath: Assets\Sprite\Nisan.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Library\ArtifactDB
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\Artifacts\09\093fbad5b8ae91aeaab322791602296c
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\09\093fbad5b8ae91aeaab322791602296c
-    projectPath: Library\Artifacts\09\093fbad5b8ae91aeaab322791602296c
+  - path: catchingDream_game\Library\Artifacts\23\230b98cd504a09a0fdabbceb857a0dc8
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\23\230b98cd504a09a0fdabbceb857a0dc8
+    projectPath: Library\Artifacts\23\230b98cd504a09a0fdabbceb857a0dc8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Library\Artifacts\15\159be2c21c7097efb524cc990ccbcfe0
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\15\159be2c21c7097efb524cc990ccbcfe0
-    projectPath: Library\Artifacts\15\159be2c21c7097efb524cc990ccbcfe0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Library\Artifacts\17\17d0a97119f602789f8c91431e94a759
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\17\17d0a97119f602789f8c91431e94a759
-    projectPath: Library\Artifacts\17\17d0a97119f602789f8c91431e94a759
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: catchingDream_game\Library\Artifacts\36\36aa8734b627142faab8cd2b3d3bc894
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\36\36aa8734b627142faab8cd2b3d3bc894
     projectPath: Library\Artifacts\36\36aa8734b627142faab8cd2b3d3bc894
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Library\Artifacts\3b\3b10f349da747de27edf234059d84600
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\3b\3b10f349da747de27edf234059d84600
-    projectPath: Library\Artifacts\3b\3b10f349da747de27edf234059d84600
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
-    projectPath: Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: catchingDream_game\Library\Artifacts\59\595602016f2c5f43f151f23d6a8ae59a
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\59\595602016f2c5f43f151f23d6a8ae59a
+    projectPath: Library\Artifacts\59\595602016f2c5f43f151f23d6a8ae59a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: catchingDream_game\Library\Artifacts\67\6753a817cf20fcb375a5c3ad9e1dad3c
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\67\6753a817cf20fcb375a5c3ad9e1dad3c
-    projectPath: Library\Artifacts\67\6753a817cf20fcb375a5c3ad9e1dad3c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Library\Artifacts\9f\9f1fda2dbdb05dc1dc164cb596e19806
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\9f\9f1fda2dbdb05dc1dc164cb596e19806
-    projectPath: Library\Artifacts\9f\9f1fda2dbdb05dc1dc164cb596e19806
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
-    projectPath: Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+  - path: catchingDream_game\Library\Artifacts\5b\5b1c0f846a39ee62e20ea0803aebf82c
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\5b\5b1c0f846a39ee62e20ea0803aebf82c
+    projectPath: Library\Artifacts\5b\5b1c0f846a39ee62e20ea0803aebf82c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -239,8 +291,8 @@ MonoBehaviour:
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\e7\e718f0de18d3a2ae466662e32e62a54e
     projectPath: Library\Artifacts\e7\e718f0de18d3a2ae466662e32e62a54e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: catchingDream_game\Library\Collab\CollabSnapshot_aca52a59-a33c-4f64-af63-fe88ceaaa70a.txt
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Collab\CollabSnapshot_aca52a59-a33c-4f64-af63-fe88ceaaa70a.txt
     projectPath: Library\Collab\CollabSnapshot_aca52a59-a33c-4f64-af63-fe88ceaaa70a.txt
@@ -257,8 +309,8 @@ MonoBehaviour:
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Library\EditorInstance.json
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -269,11 +321,17 @@ MonoBehaviour:
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Library\gfu\cache\gitlocks.yaml
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: catchingDream_game\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -307,24 +365,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\SceneVisibilityState.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -337,21 +389,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\StateCache\Hierarchy\6ec0e2-mainStage.json
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\Hierarchy\6ec0e2-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\6ec0e2-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\StateCache\Hierarchy\cf85a3-mainStage.json
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\Hierarchy\cf85a3-mainStage.json
     projectPath: Library\StateCache\Hierarchy\cf85a3-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Library\StateCache\SceneView\247be9-mainStage.json
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\SceneView\247be9-mainStage.json
-    projectPath: Library\StateCache\SceneView\247be9-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -359,383 +399,11 @@ MonoBehaviour:
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\SceneView\66f644-mainStage.json
     projectPath: Library\StateCache\SceneView\66f644-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\ProjectSettings\TagManager.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Temp\__Backupscenes\0.backup
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+  - path: catchingDream_game\Logs\Packages-Update.log
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Logs\Packages-Update.log
+    projectPath: Logs\Packages-Update.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Temp\UnityLockfile
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Temp\UnityTempFile-02bb0d8d33df3184c8a57a8a047ddca8
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-02bb0d8d33df3184c8a57a8a047ddca8
-    projectPath: Temp\UnityTempFile-02bb0d8d33df3184c8a57a8a047ddca8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-06026e019e4a9f4458b25c4d25fe03a3
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-06026e019e4a9f4458b25c4d25fe03a3
-    projectPath: Temp\UnityTempFile-06026e019e4a9f4458b25c4d25fe03a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-07041982b307f9144ae8bcc062b6296c
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-07041982b307f9144ae8bcc062b6296c
-    projectPath: Temp\UnityTempFile-07041982b307f9144ae8bcc062b6296c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-0adad25353b1bf34dbd556c8e6f44fd1
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-0adad25353b1bf34dbd556c8e6f44fd1
-    projectPath: Temp\UnityTempFile-0adad25353b1bf34dbd556c8e6f44fd1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-0e0cd139d953c9745b7fed40219ed108
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-0e0cd139d953c9745b7fed40219ed108
-    projectPath: Temp\UnityTempFile-0e0cd139d953c9745b7fed40219ed108
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-0ec41038686385c48b566a4c1ecebb43
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-0ec41038686385c48b566a4c1ecebb43
-    projectPath: Temp\UnityTempFile-0ec41038686385c48b566a4c1ecebb43
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-0ec4bc6b7ace50949b0890c3f259b260
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-0ec4bc6b7ace50949b0890c3f259b260
-    projectPath: Temp\UnityTempFile-0ec4bc6b7ace50949b0890c3f259b260
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-1081efbfb217903428c918f1e0e60ccf
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-1081efbfb217903428c918f1e0e60ccf
-    projectPath: Temp\UnityTempFile-1081efbfb217903428c918f1e0e60ccf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-11f26231970da2045adb3a5f88304155
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-11f26231970da2045adb3a5f88304155
-    projectPath: Temp\UnityTempFile-11f26231970da2045adb3a5f88304155
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-1767666d157152544b8678a3293c2f98
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-1767666d157152544b8678a3293c2f98
-    projectPath: Temp\UnityTempFile-1767666d157152544b8678a3293c2f98
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-24028b0797e031149b29b986f990ba51
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-24028b0797e031149b29b986f990ba51
-    projectPath: Temp\UnityTempFile-24028b0797e031149b29b986f990ba51
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-257e9cb3ef7638e4f85e236d36158812
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-257e9cb3ef7638e4f85e236d36158812
-    projectPath: Temp\UnityTempFile-257e9cb3ef7638e4f85e236d36158812
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-25b86e29426e5ad4d810683a55ad774e
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-25b86e29426e5ad4d810683a55ad774e
-    projectPath: Temp\UnityTempFile-25b86e29426e5ad4d810683a55ad774e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-26ac263463b3a8942adcc21949ca71ff
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-26ac263463b3a8942adcc21949ca71ff
-    projectPath: Temp\UnityTempFile-26ac263463b3a8942adcc21949ca71ff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-27901defd1c050646bd059c4f5cdc485
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-27901defd1c050646bd059c4f5cdc485
-    projectPath: Temp\UnityTempFile-27901defd1c050646bd059c4f5cdc485
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-2a7c5c5f2d586244b8a1cf00b1c1877e
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-2a7c5c5f2d586244b8a1cf00b1c1877e
-    projectPath: Temp\UnityTempFile-2a7c5c5f2d586244b8a1cf00b1c1877e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-2b7164a6639821f42a426a210bcd17c4
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-2b7164a6639821f42a426a210bcd17c4
-    projectPath: Temp\UnityTempFile-2b7164a6639821f42a426a210bcd17c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-2c4c5253d5adcc24ab73229be73b5a7b
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-2c4c5253d5adcc24ab73229be73b5a7b
-    projectPath: Temp\UnityTempFile-2c4c5253d5adcc24ab73229be73b5a7b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-2c7b07d5789c18044920491c2956d85b
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-2c7b07d5789c18044920491c2956d85b
-    projectPath: Temp\UnityTempFile-2c7b07d5789c18044920491c2956d85b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-2c9cab203e3e1ca438d59e72787d334f
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-2c9cab203e3e1ca438d59e72787d334f
-    projectPath: Temp\UnityTempFile-2c9cab203e3e1ca438d59e72787d334f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-39cb8b4cb75cb6943bf8d9f90e9c7ae4
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-39cb8b4cb75cb6943bf8d9f90e9c7ae4
-    projectPath: Temp\UnityTempFile-39cb8b4cb75cb6943bf8d9f90e9c7ae4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-3b358cdb211b99345a85a77fbdb92948
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-3b358cdb211b99345a85a77fbdb92948
-    projectPath: Temp\UnityTempFile-3b358cdb211b99345a85a77fbdb92948
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-477f1795aeb29eb4384d542b7ca6987e
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-477f1795aeb29eb4384d542b7ca6987e
-    projectPath: Temp\UnityTempFile-477f1795aeb29eb4384d542b7ca6987e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-4ae7e1e38fb4fcd41b3bfc705526ed96
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-4ae7e1e38fb4fcd41b3bfc705526ed96
-    projectPath: Temp\UnityTempFile-4ae7e1e38fb4fcd41b3bfc705526ed96
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-4c0cd35cf2f25c945a4e7811191d59c2
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-4c0cd35cf2f25c945a4e7811191d59c2
-    projectPath: Temp\UnityTempFile-4c0cd35cf2f25c945a4e7811191d59c2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-5965622cf441f7c47a68a587bbc59b8e
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-5965622cf441f7c47a68a587bbc59b8e
-    projectPath: Temp\UnityTempFile-5965622cf441f7c47a68a587bbc59b8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-5db221b9d40c01e4c9b7bd6ab439c2bf
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-5db221b9d40c01e4c9b7bd6ab439c2bf
-    projectPath: Temp\UnityTempFile-5db221b9d40c01e4c9b7bd6ab439c2bf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-645a7973eb71f0449b2c7b264f3f1daa
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-645a7973eb71f0449b2c7b264f3f1daa
-    projectPath: Temp\UnityTempFile-645a7973eb71f0449b2c7b264f3f1daa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-696ea2132660a8b4ab643eb69c50f7ad
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-696ea2132660a8b4ab643eb69c50f7ad
-    projectPath: Temp\UnityTempFile-696ea2132660a8b4ab643eb69c50f7ad
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-6bc71701880352c4abefb2042b469abb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-6bc71701880352c4abefb2042b469abb
-    projectPath: Temp\UnityTempFile-6bc71701880352c4abefb2042b469abb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-72c9672bb428eba4ebe25eed3fc8fc20
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-72c9672bb428eba4ebe25eed3fc8fc20
-    projectPath: Temp\UnityTempFile-72c9672bb428eba4ebe25eed3fc8fc20
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-82c7ee55af8a0db428364ce45f5367f5
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-82c7ee55af8a0db428364ce45f5367f5
-    projectPath: Temp\UnityTempFile-82c7ee55af8a0db428364ce45f5367f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-83d4d66f070bce54eb923d6f49864113
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-83d4d66f070bce54eb923d6f49864113
-    projectPath: Temp\UnityTempFile-83d4d66f070bce54eb923d6f49864113
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-8e83b592171e9ea48bc7c0b44e95be24
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-8e83b592171e9ea48bc7c0b44e95be24
-    projectPath: Temp\UnityTempFile-8e83b592171e9ea48bc7c0b44e95be24
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-93829a36ffdf1a84cb65878cd042078e
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-93829a36ffdf1a84cb65878cd042078e
-    projectPath: Temp\UnityTempFile-93829a36ffdf1a84cb65878cd042078e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-97a71456b973d4246afa46532d26bb59
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-97a71456b973d4246afa46532d26bb59
-    projectPath: Temp\UnityTempFile-97a71456b973d4246afa46532d26bb59
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-99f8abfb479da764cac66e9c29796308
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-99f8abfb479da764cac66e9c29796308
-    projectPath: Temp\UnityTempFile-99f8abfb479da764cac66e9c29796308
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-a04d4ccab3a03ca4eabe032b43ec48f0
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-a04d4ccab3a03ca4eabe032b43ec48f0
-    projectPath: Temp\UnityTempFile-a04d4ccab3a03ca4eabe032b43ec48f0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-a112675ea9e48fb4fa8d8fa7d14398d6
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-a112675ea9e48fb4fa8d8fa7d14398d6
-    projectPath: Temp\UnityTempFile-a112675ea9e48fb4fa8d8fa7d14398d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-a22c3ae875d1f3a43ae3c6931fa55f2b
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-a22c3ae875d1f3a43ae3c6931fa55f2b
-    projectPath: Temp\UnityTempFile-a22c3ae875d1f3a43ae3c6931fa55f2b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-a2cee1d6d1eb07341ad22f57e37b8810
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-a2cee1d6d1eb07341ad22f57e37b8810
-    projectPath: Temp\UnityTempFile-a2cee1d6d1eb07341ad22f57e37b8810
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-a3b1d8291c69f8f4e8656ba85b4d4dc1
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-a3b1d8291c69f8f4e8656ba85b4d4dc1
-    projectPath: Temp\UnityTempFile-a3b1d8291c69f8f4e8656ba85b4d4dc1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-a722d859ccf817048ad73dad6fadab59
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-a722d859ccf817048ad73dad6fadab59
-    projectPath: Temp\UnityTempFile-a722d859ccf817048ad73dad6fadab59
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-ac29dee40b0ecfd4d9c5789301d7b63f
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-ac29dee40b0ecfd4d9c5789301d7b63f
-    projectPath: Temp\UnityTempFile-ac29dee40b0ecfd4d9c5789301d7b63f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-ac49a6da22b92fd4ba75092fae338399
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-ac49a6da22b92fd4ba75092fae338399
-    projectPath: Temp\UnityTempFile-ac49a6da22b92fd4ba75092fae338399
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-aeb953158b1a2984db2307f8bb9b6549
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-aeb953158b1a2984db2307f8bb9b6549
-    projectPath: Temp\UnityTempFile-aeb953158b1a2984db2307f8bb9b6549
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-b2383d2e68727d0479ac2b959c8e29d7
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-b2383d2e68727d0479ac2b959c8e29d7
-    projectPath: Temp\UnityTempFile-b2383d2e68727d0479ac2b959c8e29d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-b7e09b528c324f94ca5eefbeae1d3d3e
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-b7e09b528c324f94ca5eefbeae1d3d3e
-    projectPath: Temp\UnityTempFile-b7e09b528c324f94ca5eefbeae1d3d3e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-b9c750a84cf23a44a9f2ccc92d5bcb74
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-b9c750a84cf23a44a9f2ccc92d5bcb74
-    projectPath: Temp\UnityTempFile-b9c750a84cf23a44a9f2ccc92d5bcb74
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-bbaabfb0f0978cb4995b5875e5c20dac
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-bbaabfb0f0978cb4995b5875e5c20dac
-    projectPath: Temp\UnityTempFile-bbaabfb0f0978cb4995b5875e5c20dac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-bc378f21bc285834abd3148a2a6a940a
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-bc378f21bc285834abd3148a2a6a940a
-    projectPath: Temp\UnityTempFile-bc378f21bc285834abd3148a2a6a940a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-bf01b7dde05ccfb4391b66b5b2043100
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-bf01b7dde05ccfb4391b66b5b2043100
-    projectPath: Temp\UnityTempFile-bf01b7dde05ccfb4391b66b5b2043100
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-c2014d0b1ab325b48839de92535e228d
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-c2014d0b1ab325b48839de92535e228d
-    projectPath: Temp\UnityTempFile-c2014d0b1ab325b48839de92535e228d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-d883950d4e5ed674cb1b326eaca2780d
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-d883950d4e5ed674cb1b326eaca2780d
-    projectPath: Temp\UnityTempFile-d883950d4e5ed674cb1b326eaca2780d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-e025e7a9650cced428d9cb7e08c18572
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-e025e7a9650cced428d9cb7e08c18572
-    projectPath: Temp\UnityTempFile-e025e7a9650cced428d9cb7e08c18572
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-e03c207ab1dcc6645a3fda339066cf2d
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-e03c207ab1dcc6645a3fda339066cf2d
-    projectPath: Temp\UnityTempFile-e03c207ab1dcc6645a3fda339066cf2d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-e349c68f4e06b154d94e7a0354b71f06
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-e349c68f4e06b154d94e7a0354b71f06
-    projectPath: Temp\UnityTempFile-e349c68f4e06b154d94e7a0354b71f06
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-e6c2965ad8961454ca2e039aeb19689f
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-e6c2965ad8961454ca2e039aeb19689f
-    projectPath: Temp\UnityTempFile-e6c2965ad8961454ca2e039aeb19689f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-f1376bf7606514047a7a9debb235a5f8
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-f1376bf7606514047a7a9debb235a5f8
-    projectPath: Temp\UnityTempFile-f1376bf7606514047a7a9debb235a5f8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: catchingDream_game\Temp\UnityTempFile-feb1cc83426fa774895d6d25094c5f54
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Temp\UnityTempFile-feb1cc83426fa774895d6d25094c5f54
-    projectPath: Temp\UnityTempFile-feb1cc83426fa774895d6d25094c5f54
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5

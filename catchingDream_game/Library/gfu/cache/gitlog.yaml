@@ -13,9 +13,318 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-11-20T18:19:59.414+07:00
+  lastUpdatedAtString: 2020-11-20T18:37:51.779+07:00
   initializedAtString: 2020-11-20T18:19:59.414+07:00
   log:
+  - commitID: 5f0e99fc224dd52b6c899fc62c4688cf8a110501
+    mergeA: 
+    mergeB: 
+    authorName: akamamara
+    authorEmail: aldi_okta10@apps.ipb.ac.id
+    commitEmail: aldi_okta10@apps.ipb.ac.id
+    commitName: akamamara
+    summary: Update script obstacle & player
+    description: 
+    timeString: 2020-11-20T18:28:57.000+07:00
+    commitTimeString: 2020-11-20T18:28:57.000+07:00
+    changes:
+    - path: catchingDream_game\Assets\Environment.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment.meta
+      projectPath: Assets\Environment.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Environment\Grass.png
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Grass.png
+      projectPath: Assets\Environment\Grass.png
+      originalPath: catchingDream_game\Assets\Grass.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Environment\Grass.png.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Grass.png.meta
+      projectPath: Assets\Environment\Grass.png.meta
+      originalPath: catchingDream_game\Assets\Grass.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Scenes\Level 1.unity
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Level
+        1.unity
+      projectPath: Assets\Scenes\Level 1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Script.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script.meta
+      projectPath: Assets\Script.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Script\obstacle.cs
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\obstacle.cs
+      projectPath: Assets\Script\obstacle.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Script\obstacle.cs.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\obstacle.cs.meta
+      projectPath: Assets\Script\obstacle.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Script\player.cs
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\player.cs
+      projectPath: Assets\Script\player.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Script\player.cs.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\player.cs.meta
+      projectPath: Assets\Script\player.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Sprite.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite.meta
+      projectPath: Assets\Sprite.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Sprite\Nisan.png
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\Nisan.png
+      projectPath: Assets\Sprite\Nisan.png
+      originalPath: catchingDream_game\Assets\Nisan.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Sprite\Nisan.png.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\Nisan.png.meta
+      projectPath: Assets\Sprite\Nisan.png.meta
+      originalPath: catchingDream_game\Assets\Nisan.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Sprite\chara-diam - Copy.png
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam
+        - Copy.png
+      projectPath: Assets\Sprite\chara-diam - Copy.png
+      originalPath: catchingDream_game\Assets\chara-diam.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Sprite\chara-diam - Copy.png.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam
+        - Copy.png.meta
+      projectPath: Assets\Sprite\chara-diam - Copy.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Sprite\chara-diam.png
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam.png
+      projectPath: Assets\Sprite\chara-diam.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Assets\Sprite\chara-diam.png.meta
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\chara-diam.png.meta
+      projectPath: Assets\Sprite\chara-diam.png.meta
+      originalPath: catchingDream_game\Assets\chara-diam.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\ArtifactDB
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\09\093fbad5b8ae91aeaab322791602296c
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\09\093fbad5b8ae91aeaab322791602296c
+      projectPath: Library\Artifacts\09\093fbad5b8ae91aeaab322791602296c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\15\159be2c21c7097efb524cc990ccbcfe0
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\15\159be2c21c7097efb524cc990ccbcfe0
+      projectPath: Library\Artifacts\15\159be2c21c7097efb524cc990ccbcfe0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\17\17d0a97119f602789f8c91431e94a759
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\17\17d0a97119f602789f8c91431e94a759
+      projectPath: Library\Artifacts\17\17d0a97119f602789f8c91431e94a759
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\36\36aa8734b627142faab8cd2b3d3bc894
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\36\36aa8734b627142faab8cd2b3d3bc894
+      projectPath: Library\Artifacts\36\36aa8734b627142faab8cd2b3d3bc894
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\3b\3b10f349da747de27edf234059d84600
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\3b\3b10f349da747de27edf234059d84600
+      projectPath: Library\Artifacts\3b\3b10f349da747de27edf234059d84600
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+      projectPath: Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\67\6753a817cf20fcb375a5c3ad9e1dad3c
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\67\6753a817cf20fcb375a5c3ad9e1dad3c
+      projectPath: Library\Artifacts\67\6753a817cf20fcb375a5c3ad9e1dad3c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\9f\9f1fda2dbdb05dc1dc164cb596e19806
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\9f\9f1fda2dbdb05dc1dc164cb596e19806
+      projectPath: Library\Artifacts\9f\9f1fda2dbdb05dc1dc164cb596e19806
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+      projectPath: Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Artifacts\e7\e718f0de18d3a2ae466662e32e62a54e
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Artifacts\e7\e718f0de18d3a2ae466662e32e62a54e
+      projectPath: Library\Artifacts\e7\e718f0de18d3a2ae466662e32e62a54e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\Collab\CollabSnapshot_aca52a59-a33c-4f64-af63-fe88ceaaa70a.txt
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\Collab\CollabSnapshot_aca52a59-a33c-4f64-af63-fe88ceaaa70a.txt
+      projectPath: Library\Collab\CollabSnapshot_aca52a59-a33c-4f64-af63-fe88ceaaa70a.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\CurrentLayout-default.dwlt
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\EditorInstance.json
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\InspectorExpandedItems.asset
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\SceneVisibilityState.asset
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\SourceAssetDB
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\StateCache\Hierarchy\6ec0e2-mainStage.json
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\Hierarchy\6ec0e2-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\6ec0e2-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\StateCache\Hierarchy\cf85a3-mainStage.json
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\Hierarchy\cf85a3-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\cf85a3-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\StateCache\SceneView\247be9-mainStage.json
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\SceneView\247be9-mainStage.json
+      projectPath: Library\StateCache\SceneView\247be9-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\StateCache\SceneView\66f644-mainStage.json
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\StateCache\SceneView\66f644-mainStage.json
+      projectPath: Library\StateCache\SceneView\66f644-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\gfu\cache\branches.yaml
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\gfu\cache\gituser.yaml
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: catchingDream_game\ProjectSettings\TagManager.asset
+      fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 5a2db92334b36b0947fd43342447994a56a0788d
     mergeA: 
     mergeB: 
