@@ -11,12 +11,23 @@ public class spawner : MonoBehaviour
 	public float startTimeBtwSpawn;
 	public float decreaseTime;
 	public float minTime = 0.65f;
+	private int rand;
+	private int sebelumnya = -1;
+
+	private void Start()
+    {
+		sebelumnya = -1;
+    }
 	
 	private void Update()
 	{
 		if(timeBtwSpawn <= 0)
 		{
 			int rand = Random.Range(0, obstaclePatterns.Length);
+			if(rand == sebelumnya)
+            {
+				rand = Random.Range(sebelumnya + 1, obstaclePatterns.Length);
+			}	
 			Instantiate(obstaclePatterns[rand], transform.position, Quaternion.identity);
 			// Instantiate(obstacle, transform.position, Quaternion.identity);
 			timeBtwSpawn = startTimeBtwSpawn;
@@ -24,6 +35,7 @@ public class spawner : MonoBehaviour
 			{
 				startTimeBtwSpawn -= decreaseTime;
 			}
+			sebelumnya = rand;
 		} 
 		else
 		{

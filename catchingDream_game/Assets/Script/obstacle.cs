@@ -4,9 +4,14 @@ using UnityEngine;
 
 public class obstacle : MonoBehaviour
 {
-    public int damage = 1;
+    public int damage = 15;
     public float speed;
+    public Animator camAnim;
 
+    private void Start()
+    {
+        camAnim = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Animator>();
+    }
     private void Update()
     {
         transform.Translate(Vector2.down * speed * Time.deltaTime);
@@ -17,8 +22,9 @@ public class obstacle : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // Player take damage!
-            other.GetComponent<player>().health -= damage;
-            Debug.Log(other.GetComponent<player>().health);
+            camAnim.SetTrigger("shake"); 
+            other.GetComponent<player>().currentHealth -= damage;
+            Debug.Log(other.GetComponent<player>().currentHealth);
             Destroy(gameObject);
         }
     }
