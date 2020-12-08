@@ -6,7 +6,7 @@ public class monster : MonoBehaviour
 {
 	public float speed;
 
-	private Animator anim;
+	/* private Animator anim;
 	public GameObject[] ObjectToAnimate;
 	public float TimeToAnimate;
 	private void Start ()
@@ -24,7 +24,7 @@ public class monster : MonoBehaviour
 	{
 		yield return new WaitForSeconds(TimeToAnimate);
 		anim.enabled = true;
-	}
+	} */
 
 	private void Update()
 	{

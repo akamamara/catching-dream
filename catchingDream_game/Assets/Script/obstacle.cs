@@ -6,11 +6,11 @@ public class obstacle : MonoBehaviour
 {
     public int damage = 15;
     public float speed;
-    public Animator camAnim;
+    private shake shake;
 
     private void Start()
     {
-        camAnim = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Animator>();
+        shake = GameObject.FindGameObjectWithTag("ScreenShake").GetComponent<shake>();
     }
     private void Update()
     {
@@ -22,7 +22,7 @@ public class obstacle : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // Player take damage!
-            camAnim.SetTrigger("shake"); 
+            shake.CamShake();
             other.GetComponent<player>().currentHealth -= damage;
             Debug.Log(other.GetComponent<player>().currentHealth);
             Destroy(gameObject);

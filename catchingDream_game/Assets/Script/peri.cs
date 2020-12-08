@@ -7,7 +7,8 @@ public class peri : MonoBehaviour
 	public int addSanity = 10;
 	public float speed;
 
-	private Animator anim;
+	public GameObject effect;
+	/* private Animator anim;
 	public GameObject[] ObjectToAnimate;
 	public float TimeToAnimate;
 	private void Start ()
@@ -25,9 +26,8 @@ public class peri : MonoBehaviour
 	{
 		yield return new WaitForSeconds(TimeToAnimate);
 		anim.enabled = true;
-	}
+	} */
 
-	public GameObject effect;
 	private void Update()
 	{
 		transform.Translate(Vector2.down * speed * Time.deltaTime);
@@ -37,12 +37,11 @@ public class peri : MonoBehaviour
 	{
 		if (other.CompareTag("Player"))
 		{
-			//effect
-			Instantiate(effect, transform.position, Quaternion.identity);
-
 			// healing player
 			other.GetComponent<player>().currentHealth += addSanity;
 			Debug.Log(other.GetComponent<player>().currentHealth);
+			//effect
+			Instantiate(effect, transform.position, Quaternion.identity);
 			Destroy(gameObject);
 		}
 	}
