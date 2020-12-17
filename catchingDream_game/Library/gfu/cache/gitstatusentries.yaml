@@ -13,85 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-06T19:26:28.700+07:00
-  initializedAtString: 2020-12-06T18:52:31.706+07:00
+  lastUpdatedAtString: 2020-12-15T20:07:21.345+07:00
+  initializedAtString: 2020-12-15T20:07:21.345+07:00
   entries:
-  - path: catchingDream_game\Assets\Animation\About Button.controller
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\About
-      Button.controller
-    projectPath: Assets\Animation\About Button.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\About Button.controller.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\About
-      Button.controller.meta
-    projectPath: Assets\Animation\About Button.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\idle.anim
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\idle.anim
-    projectPath: Assets\Animation\idle.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Assets\Animation\Main Camera.controller
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Main
-      Camera.controller
-    projectPath: Assets\Animation\Main Camera.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\Main Camera.controller.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Main
-      Camera.controller.meta
-    projectPath: Assets\Animation\Main Camera.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: catchingDream_game\Assets\Animation\peri effect.controller
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\peri
       effect.controller
     projectPath: Assets\Animation\peri effect.controller
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: catchingDream_game\Assets\Animation\peri effect.controller.meta
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\peri
       effect.controller.meta
     projectPath: Assets\Animation\peri effect.controller.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: catchingDream_game\Assets\Animation\peri effect.controller.meta_
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\peri
       effect.controller.meta_
     projectPath: Assets\Animation\peri effect.controller.meta_
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: catchingDream_game\Assets\Animation\peri effect.controller.meta_.meta
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\peri
       effect.controller.meta_.meta
     projectPath: Assets\Animation\peri effect.controller.meta_.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: catchingDream_game\Assets\Animation\peri effect.controller_
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\peri
       effect.controller_
     projectPath: Assets\Animation\peri effect.controller_
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: catchingDream_game\Assets\Animation\peri effect.controller_.meta
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\peri
       effect.controller_.meta
     projectPath: Assets\Animation\peri effect.controller_.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: catchingDream_game\Assets\Animation\peri effect.prefab
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\peri
       effect.prefab
@@ -99,95 +65,75 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Animation\Play Button.controller
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Play
-      Button.controller
-    projectPath: Assets\Animation\Play Button.controller
+  - path: catchingDream_game\Assets\Environment\2433321.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\2433321.png
+    projectPath: Assets\Environment\2433321.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\Play Button.controller.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Play
-      Button.controller.meta
-    projectPath: Assets\Animation\Play Button.controller.meta
+  - path: catchingDream_game\Assets\Environment\2433321.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\2433321.png.meta
+    projectPath: Assets\Environment\2433321.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\Quit Button.controller
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Quit
-      Button.controller
-    projectPath: Assets\Animation\Quit Button.controller
+  - path: catchingDream_game\Assets\Environment\BG-Paused.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\BG-Paused.png
+    projectPath: Assets\Environment\BG-Paused.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\Quit Button.controller.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Quit
-      Button.controller.meta
-    projectPath: Assets\Animation\Quit Button.controller.meta
+  - path: catchingDream_game\Assets\Environment\BG-Paused.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\BG-Paused.png.meta
+    projectPath: Assets\Environment\BG-Paused.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\shake.anim
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\shake.anim
-    projectPath: Assets\Animation\shake.anim
+  - path: catchingDream_game\Assets\Environment\Quit.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Quit.png
+    projectPath: Assets\Environment\Quit.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Animation\shake.anim.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\shake.anim.meta
-    projectPath: Assets\Animation\shake.anim.meta
+  - path: catchingDream_game\Assets\Environment\Quit.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Quit.png.meta
+    projectPath: Assets\Environment\Quit.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\BG menu 1.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\BG
-      menu 1.png
-    projectPath: Assets\Environment\BG menu 1.png
+  - path: catchingDream_game\Assets\Environment\Restart.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Restart.png
+    projectPath: Assets\Environment\Restart.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\BG menu 1.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\BG
-      menu 1.png.meta
-    projectPath: Assets\Environment\BG menu 1.png.meta
+  - path: catchingDream_game\Assets\Environment\Restart.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Restart.png.meta
+    projectPath: Assets\Environment\Restart.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\bgPanjang-2.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\bgPanjang-2.png
-    projectPath: Assets\Environment\bgPanjang-2.png
+  - path: catchingDream_game\Assets\Environment\Resume.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Resume.png
+    projectPath: Assets\Environment\Resume.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\bgPanjang-2.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\bgPanjang-2.png.meta
-    projectPath: Assets\Environment\bgPanjang-2.png.meta
+  - path: catchingDream_game\Assets\Environment\Resume.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Resume.png.meta
+    projectPath: Assets\Environment\Resume.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\bgPanjang-3.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\bgPanjang-3.png
-    projectPath: Assets\Environment\bgPanjang-3.png
+  - path: catchingDream_game\Assets\Prefabs\kosongan.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\kosongan.prefab
+    projectPath: Assets\Prefabs\kosongan.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\bgPanjang-3.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\bgPanjang-3.png.meta
-    projectPath: Assets\Environment\bgPanjang-3.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Nama Catching Dream.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Nama
-      Catching Dream.png
-    projectPath: Assets\Environment\Nama Catching Dream.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Nama Catching Dream.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Nama
-      Catching Dream.png.meta
-    projectPath: Assets\Environment\Nama Catching Dream.png.meta
+  - path: catchingDream_game\Assets\Prefabs\kosongan.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\kosongan.prefab.meta
+    projectPath: Assets\Prefabs\kosongan.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -204,57 +150,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Scenes\Level 2.unity
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Level
-      2.unity
-    projectPath: Assets\Scenes\Level 2.unity
+  - path: catchingDream_game\Assets\Script\countdownTimer.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\countdownTimer.cs
+    projectPath: Assets\Script\countdownTimer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: catchingDream_game\Assets\Script\GamePauseManager.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\GamePauseManager.cs
+    projectPath: Assets\Script\GamePauseManager.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Scenes\Level 2.unity.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Level
-      2.unity.meta
-    projectPath: Assets\Scenes\Level 2.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Scenes\Level 3.unity
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Level
-      3.unity
-    projectPath: Assets\Scenes\Level 3.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Scenes\Level 3.unity.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Level
-      3.unity.meta
-    projectPath: Assets\Scenes\Level 3.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Scenes\Main Menu.unity
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Main
-      Menu.unity
-    projectPath: Assets\Scenes\Main Menu.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Scenes\Main Menu.unity.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Main
-      Menu.unity.meta
-    projectPath: Assets\Scenes\Main Menu.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\ButtonMainMenu.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\ButtonMainMenu.cs
-    projectPath: Assets\Script\ButtonMainMenu.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\ButtonMainMenu.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\ButtonMainMenu.cs.meta
-    projectPath: Assets\Script\ButtonMainMenu.cs.meta
+  - path: catchingDream_game\Assets\Script\GamePauseManager.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\GamePauseManager.cs.meta
+    projectPath: Assets\Script\GamePauseManager.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -276,24 +186,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script\peri.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\peri.cs.meta
-    projectPath: Assets\Script\peri.cs.meta
+  - path: catchingDream_game\Assets\Script\spawner.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\spawner.cs
+    projectPath: Assets\Script\spawner.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script\shake.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\shake.cs
-    projectPath: Assets\Script\shake.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\shake.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\shake.cs.meta
-    projectPath: Assets\Script\shake.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: catchingDream_game\Library\ArtifactDB
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -342,18 +240,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\InspectorExpandedItems.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\LastSceneManagerSetup.txt
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\SceneVisibilityState.asset
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -399,12 +285,6 @@ MonoBehaviour:
   - path: catchingDream_game\ProjectSettings\EditorBuildSettings.asset
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\EditorBuildSettings.asset
     projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\ProjectSettings\TagManager.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

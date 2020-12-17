@@ -37,11 +37,12 @@ public class peri : MonoBehaviour
 	{
 		if (other.CompareTag("Player"))
 		{
-			// healing player
-			other.GetComponent<player>().currentHealth += addSanity;
-			Debug.Log(other.GetComponent<player>().currentHealth);
 			//effect
 			Instantiate(effect, transform.position, Quaternion.identity);
+
+			// healing player
+			other.GetComponent<player>().currentHealth += addSanity;
+			// Debug.Log(other.GetComponent<player>().currentHealth);
 			Destroy(gameObject);
 		}
 	}

@@ -37,7 +37,7 @@ public class monster : MonoBehaviour
 		{
 			// Player take damage!
 			other.GetComponent<player>().currentHealth = 0;
-			Debug.Log(other.GetComponent<player>().currentHealth);
+			// Debug.Log(other.GetComponent<player>().currentHealth);
 			Destroy(gameObject);
 		}
 	}

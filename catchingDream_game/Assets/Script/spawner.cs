@@ -11,13 +11,14 @@ public class spawner : MonoBehaviour
 	public float startTimeBtwSpawn;
 	public float decreaseTime;
 	public float minTime = 0.65f;
+	
 	private int rand;
 	private int sebelumnya = -1;
 
 	private void Start()
     {
 		sebelumnya = -1;
-    }
+	}
 	
 	private void Update()
 	{

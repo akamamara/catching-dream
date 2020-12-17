@@ -24,7 +24,7 @@ public class obstacle : MonoBehaviour
             // Player take damage!
             shake.CamShake();
             other.GetComponent<player>().currentHealth -= damage;
-            Debug.Log(other.GetComponent<player>().currentHealth);
+            // Debug.Log(other.GetComponent<player>().currentHealth);
             Destroy(gameObject);
         }
     }

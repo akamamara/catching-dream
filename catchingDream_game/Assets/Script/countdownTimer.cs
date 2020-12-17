@@ -7,12 +7,18 @@ using UnityEngine.SceneManagement;
 public class countdownTimer : MonoBehaviour
 {
     // public string LevelToLoad;
-    private float timer = 120f;
+    public float startTimer = 30f;
+    public float timer;
     private Text timerSeconds;
+    public float getTimer()
+    {
+        return startTimer;
+    }
 
     void Start()
     {
         timerSeconds = GetComponent<Text>();
+        timer = startTimer;
     }
 
     // Update is called once per frame
@@ -20,7 +26,7 @@ public class countdownTimer : MonoBehaviour
     {
         timer -= Time.deltaTime;
         timerSeconds.text = timer.ToString("f0");
-        if(timer <= 0)
+        if(timer <= -3)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
