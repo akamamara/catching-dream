@@ -11,9 +11,10 @@ public class ButtonMainMenu : MonoBehaviour
         SceneManager.LoadScene (scenename);
     }
 
-    // Update is called once per frame
-    //void Update()
-    //{
-        
-    //}
+    // Fungsi Quit
+    public void doquit()
+    {
+       Debug.Log ("has quit game");
+       Application.Quit(); 
+    }
 }

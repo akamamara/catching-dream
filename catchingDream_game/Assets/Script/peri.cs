@@ -8,6 +8,7 @@ public class peri : MonoBehaviour
 	public float speed;
 
 	public GameObject effect;
+	public GameObject PeriEffectSound;
 	/* private Animator anim;
 	public GameObject[] ObjectToAnimate;
 	public float TimeToAnimate;
@@ -19,8 +20,9 @@ public class peri : MonoBehaviour
 	
 		anim.enabled = false;
 		StartCoroutine(Ahead());
-    }
-   
+    	}
+    	
+   	
 	// Update is called once per frame
 	IEnumerator Ahead()
 	{
@@ -37,6 +39,9 @@ public class peri : MonoBehaviour
 	{
 		if (other.CompareTag("Player"))
 		{
+			//Sound Effect
+			Instantiate(PeriEffectSound, transform.position, Quaternion.identity);
+			
 			//effect
 			Instantiate(effect, transform.position, Quaternion.identity);
 
