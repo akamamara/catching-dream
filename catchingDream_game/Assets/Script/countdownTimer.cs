@@ -9,7 +9,9 @@ public class countdownTimer : MonoBehaviour
 	// public string LevelToLoad;
 	public float startTimer = 120f;
 	public float timer;
-	private Text timerSeconds;
+    private Text timerSeconds;
+	private bool endGame = false;
+
 	public float getTimer()
 	{
 		return timer;
@@ -31,22 +33,18 @@ public class countdownTimer : MonoBehaviour
 		// Hitung maju waktu
 		if(timer < startTimer)
         {
+			endGame = false;
 			timer += Time.deltaTime;
-			timerSeconds.text = timer.ToString("f0");
+            timerSeconds.text = timer.ToString("f0") + "s";
 		}
-        else if (timer > startTimer)
+		if(timer > startTimer)
         {
-			// Suspend time
-			timerSeconds.text = startTimer.ToString("f0");
-			// Load next Level
-			Invoke("loadNextLevel", 3.0f);
+			if(endGame == false)
+            {
+				endGame = true;
+				FindObjectOfType<spawnerEndGame>().spawnEndGame();
+			}
+			// FindObjectOfType<EndGameManager>().Invoke("openPanel", 3.0f);
 		}
-	}
-	void loadNextLevel()
-    {
-		if (SceneManager.GetActiveScene().buildIndex == 4)
-			SceneManager.LoadScene("Levels");
-		else
-			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 	}
 }

@@ -8,6 +8,14 @@ public class GameOverManager : MonoBehaviour
 	bool gameHasEnded = false;
 	public float restartDelay = 0.05f;
 	public GameObject PanelGameOver;
+	private AudioSource audioSource;
+	
+	private void Start(){
+		if(gameHasEnded == false){
+			audioSource = GetComponent<AudioSource>();	
+			audioSource.Play();
+		}
+	}
 
 	public void endGame()
 	{
@@ -17,6 +25,7 @@ public class GameOverManager : MonoBehaviour
 			Invoke("stopTime", restartDelay);
 			Invoke("openPanel", restartDelay);
 			// Restart();
+			audioSource.Pause();
 		}
 		 
 	}

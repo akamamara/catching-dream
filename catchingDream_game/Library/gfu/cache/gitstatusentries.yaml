@@ -13,234 +13,659 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-29T12:03:58.551+07:00
-  initializedAtString: 2020-12-29T11:06:58.067+07:00
+  lastUpdatedAtString: 2021-01-02T16:06:57.745+07:00
+  initializedAtString: 2021-01-02T15:25:24.405+07:00
   entries:
-  - path: catchingDream_game\Assets\Animation\Player.anim
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Player.anim
-    projectPath: Assets\Animation\Player.anim
+  - path: catchingDream_game\Assets\Animation\Black Hole.anim
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Black
+      Hole.anim
+    projectPath: Assets\Animation\Black Hole.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Black Hole.anim.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Black
+      Hole.anim.meta
+    projectPath: Assets\Animation\Black Hole.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Black Hole.controller
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Black
+      Hole.controller
+    projectPath: Assets\Animation\Black Hole.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Black Hole.controller.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Black
+      Hole.controller.meta
+    projectPath: Assets\Animation\Black Hole.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\blood effect.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\blood
+      effect.prefab
+    projectPath: Assets\Animation\blood effect.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\blood effect.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\blood
+      effect.prefab.meta
+    projectPath: Assets\Animation\blood effect.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Pagar.anim
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Pagar.anim
+    projectPath: Assets\Animation\Pagar.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Pagar.anim.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Pagar.anim.meta
+    projectPath: Assets\Animation\Pagar.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Pagar.controller
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Pagar.controller
+    projectPath: Assets\Animation\Pagar.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Pagar.controller.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Pagar.controller.meta
+    projectPath: Assets\Animation\Pagar.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Rumah.anim
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Rumah.anim
+    projectPath: Assets\Animation\Rumah.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Rumah.anim.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Rumah.anim.meta
+    projectPath: Assets\Animation\Rumah.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Rumah.controller
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Rumah.controller
+    projectPath: Assets\Animation\Rumah.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Animation\Rumah.controller.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Animation\Rumah.controller.meta
+    projectPath: Assets\Animation\Rumah.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole.meta
+    projectPath: Assets\Environment\Black Hole.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b1.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b1.png
+    projectPath: Assets\Environment\Black Hole\b1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b1.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b1.png.meta
+    projectPath: Assets\Environment\Black Hole\b1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b2.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b2.png
+    projectPath: Assets\Environment\Black Hole\b2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b2.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b2.png.meta
+    projectPath: Assets\Environment\Black Hole\b2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b3.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b3.png
+    projectPath: Assets\Environment\Black Hole\b3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b3.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b3.png.meta
+    projectPath: Assets\Environment\Black Hole\b3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b4.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b4.png
+    projectPath: Assets\Environment\Black Hole\b4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Black Hole\b4.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Black
+      Hole\b4.png.meta
+    projectPath: Assets\Environment\Black Hole\b4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats.png
+    projectPath: Assets\Environment\congrats.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats.png.meta
+    projectPath: Assets\Environment\congrats.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats_nextBtn.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats_nextBtn.png
+    projectPath: Assets\Environment\congrats_nextBtn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats_nextBtn.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats_nextBtn.png.meta
+    projectPath: Assets\Environment\congrats_nextBtn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats_panel.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats_panel.png
+    projectPath: Assets\Environment\congrats_panel.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats_panel.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats_panel.png.meta
+    projectPath: Assets\Environment\congrats_panel.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats_replayBtn.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats_replayBtn.png
+    projectPath: Assets\Environment\congrats_replayBtn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\congrats_replayBtn.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\congrats_replayBtn.png.meta
+    projectPath: Assets\Environment\congrats_replayBtn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\kotakscore.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\kotakscore.png
+    projectPath: Assets\Environment\kotakscore.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\kotakscore.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\kotakscore.png.meta
+    projectPath: Assets\Environment\kotakscore.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Next.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Next.png
+    projectPath: Assets\Environment\Next.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Next.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Next.png.meta
+    projectPath: Assets\Environment\Next.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar.meta
+    projectPath: Assets\Environment\pagar.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\1.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\1.png
+    projectPath: Assets\Environment\pagar\1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\1.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\1.png.meta
+    projectPath: Assets\Environment\pagar\1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\10.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\10.png
+    projectPath: Assets\Environment\pagar\10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\10.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\10.png.meta
+    projectPath: Assets\Environment\pagar\10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\2.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\2.png
+    projectPath: Assets\Environment\pagar\2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\2.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\2.png.meta
+    projectPath: Assets\Environment\pagar\2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\3.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\3.png
+    projectPath: Assets\Environment\pagar\3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\3.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\3.png.meta
+    projectPath: Assets\Environment\pagar\3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\4.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\4.png
+    projectPath: Assets\Environment\pagar\4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\4.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\4.png.meta
+    projectPath: Assets\Environment\pagar\4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\5.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\5.png
+    projectPath: Assets\Environment\pagar\5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\5.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\5.png.meta
+    projectPath: Assets\Environment\pagar\5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\6.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\6.png
+    projectPath: Assets\Environment\pagar\6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\6.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\6.png.meta
+    projectPath: Assets\Environment\pagar\6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\7.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\7.png
+    projectPath: Assets\Environment\pagar\7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\7.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\7.png.meta
+    projectPath: Assets\Environment\pagar\7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\8.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\8.png
+    projectPath: Assets\Environment\pagar\8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\8.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\8.png.meta
+    projectPath: Assets\Environment\pagar\8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\9.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\9.png
+    projectPath: Assets\Environment\pagar\9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\pagar\9.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\pagar\9.png.meta
+    projectPath: Assets\Environment\pagar\9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Replay.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Replay.png
+    projectPath: Assets\Environment\Replay.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Replay.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Replay.png.meta
+    projectPath: Assets\Environment\Replay.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah.meta
+    projectPath: Assets\Environment\Rumah.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r1.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r1.png
+    projectPath: Assets\Environment\Rumah\r1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r1.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r1.png.meta
+    projectPath: Assets\Environment\Rumah\r1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r2.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r2.png
+    projectPath: Assets\Environment\Rumah\r2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r2.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r2.png.meta
+    projectPath: Assets\Environment\Rumah\r2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r3.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r3.png
+    projectPath: Assets\Environment\Rumah\r3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r3.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r3.png.meta
+    projectPath: Assets\Environment\Rumah\r3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r4.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r4.png
+    projectPath: Assets\Environment\Rumah\r4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r4.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r4.png.meta
+    projectPath: Assets\Environment\Rumah\r4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r5.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r5.png
+    projectPath: Assets\Environment\Rumah\r5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r5.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r5.png.meta
+    projectPath: Assets\Environment\Rumah\r5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r6.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r6.png
+    projectPath: Assets\Environment\Rumah\r6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r6.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r6.png.meta
+    projectPath: Assets\Environment\Rumah\r6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r7.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r7.png
+    projectPath: Assets\Environment\Rumah\r7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Environment\Rumah\r7.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Rumah\r7.png.meta
+    projectPath: Assets\Environment\Rumah\r7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\467701__lucasduff__monster-bite.mp3
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\467701__lucasduff__monster-bite.mp3
+    projectPath: Assets\Musik\467701__lucasduff__monster-bite.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\467701__lucasduff__monster-bite.mp3.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\467701__lucasduff__monster-bite.mp3.meta
+    projectPath: Assets\Musik\467701__lucasduff__monster-bite.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\Dark Rooms and Scary Things - isaiah658.mp3
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\Dark
+      Rooms and Scary Things - isaiah658.mp3
+    projectPath: Assets\Musik\Dark Rooms and Scary Things - isaiah658.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\Dark Rooms and Scary Things - isaiah658.mp3.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\Dark
+      Rooms and Scary Things - isaiah658.mp3.meta
+    projectPath: Assets\Musik\Dark Rooms and Scary Things - isaiah658.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "catchingDream_game\\Assets\\Musik\\Horror Clich\xE9.mp3"
+    fullPath: "D:\\Works\\Grafkom\\catching-dream\\catchingDream_game\\Assets\\Musik\\Horror
+      Clich\xE9.mp3"
+    projectPath: "Assets\\Musik\\Horror Clich\xE9.mp3"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "catchingDream_game\\Assets\\Musik\\Horror Clich\xE9.mp3.meta"
+    fullPath: "D:\\Works\\Grafkom\\catching-dream\\catchingDream_game\\Assets\\Musik\\Horror
+      Clich\xE9.mp3.meta"
+    projectPath: "Assets\\Musik\\Horror Clich\xE9.mp3.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\Night of the Streets.mp3
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\Night
+      of the Streets.mp3
+    projectPath: Assets\Musik\Night of the Streets.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\Night of the Streets.mp3.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\Night
+      of the Streets.mp3.meta
+    projectPath: Assets\Musik\Night of the Streets.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\nisan.mp3
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\nisan.mp3
+    projectPath: Assets\Musik\nisan.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\nisan.mp3.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\nisan.mp3.meta
+    projectPath: Assets\Musik\nisan.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\Opening.mp3
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\Opening.mp3
+    projectPath: Assets\Musik\Opening.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Musik\Opening.mp3.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\Opening.mp3.meta
+    projectPath: Assets\Musik\Opening.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir.meta
+    projectPath: Assets\Prefabs\Akhir.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\Black Hole.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\Black
+      Hole.prefab
+    projectPath: Assets\Prefabs\Akhir\Black Hole.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\Black Hole.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\Black
+      Hole.prefab.meta
+    projectPath: Assets\Prefabs\Akhir\Black Hole.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\HoleSpawn.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\HoleSpawn.prefab
+    projectPath: Assets\Prefabs\Akhir\HoleSpawn.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\HoleSpawn.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\HoleSpawn.prefab.meta
+    projectPath: Assets\Prefabs\Akhir\HoleSpawn.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\Pagar.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\Pagar.prefab
+    projectPath: Assets\Prefabs\Akhir\Pagar.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\Pagar.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\Pagar.prefab.meta
+    projectPath: Assets\Prefabs\Akhir\Pagar.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\PagarSpawn.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\PagarSpawn.prefab
+    projectPath: Assets\Prefabs\Akhir\PagarSpawn.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\PagarSpawn.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\PagarSpawn.prefab.meta
+    projectPath: Assets\Prefabs\Akhir\PagarSpawn.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\Rumah.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\Rumah.prefab
+    projectPath: Assets\Prefabs\Akhir\Rumah.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\Rumah.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\Rumah.prefab.meta
+    projectPath: Assets\Prefabs\Akhir\Rumah.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\RumahSpawn.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\RumahSpawn.prefab
+    projectPath: Assets\Prefabs\Akhir\RumahSpawn.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\Akhir\RumahSpawn.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Akhir\RumahSpawn.prefab.meta
+    projectPath: Assets\Prefabs\Akhir\RumahSpawn.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Prefabs\monster-seram.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\monster-seram.prefab
+    projectPath: Assets\Prefabs\monster-seram.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Environment\arrow.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\arrow.png
-    projectPath: Assets\Environment\arrow.png
+  - path: catchingDream_game\Assets\Prefabs\SFX\BiteSFX.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\BiteSFX.prefab
+    projectPath: Assets\Prefabs\SFX\BiteSFX.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\arrow.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\arrow.png.meta
-    projectPath: Assets\Environment\arrow.png.meta
+  - path: catchingDream_game\Assets\Prefabs\SFX\BiteSFX.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\BiteSFX.prefab.meta
+    projectPath: Assets\Prefabs\SFX\BiteSFX.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\BG-Gameover.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\BG-Gameover.png
-    projectPath: Assets\Environment\BG-Gameover.png
+  - path: catchingDream_game\Assets\Prefabs\SFX\MusicTheme.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\MusicTheme.prefab
+    projectPath: Assets\Prefabs\SFX\MusicTheme.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\BG-Gameover.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\BG-Gameover.png.meta
-    projectPath: Assets\Environment\BG-Gameover.png.meta
+  - path: catchingDream_game\Assets\Prefabs\SFX\MusicTheme.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\MusicTheme.prefab.meta
+    projectPath: Assets\Prefabs\SFX\MusicTheme.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\iconlock.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\iconlock.png
-    projectPath: Assets\Environment\iconlock.png
+  - path: catchingDream_game\Assets\Prefabs\SFX\NisanSFX.prefab
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\NisanSFX.prefab
+    projectPath: Assets\Prefabs\SFX\NisanSFX.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\iconlock.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\iconlock.png.meta
-    projectPath: Assets\Environment\iconlock.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\level.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\level.png
-    projectPath: Assets\Environment\level.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\level.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\level.png.meta
-    projectPath: Assets\Environment\level.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Lv1.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Lv1.png
-    projectPath: Assets\Environment\Lv1.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Lv1.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Lv1.png.meta
-    projectPath: Assets\Environment\Lv1.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Lv2.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Lv2.png
-    projectPath: Assets\Environment\Lv2.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Lv2.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Lv2.png.meta
-    projectPath: Assets\Environment\Lv2.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Lv3.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Lv3.png
-    projectPath: Assets\Environment\Lv3.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\Lv3.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\Lv3.png.meta
-    projectPath: Assets\Environment\Lv3.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\nmlevel.png
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\nmlevel.png
-    projectPath: Assets\Environment\nmlevel.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Environment\nmlevel.png.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Environment\nmlevel.png.meta
-    projectPath: Assets\Environment\nmlevel.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik.meta
-    projectPath: Assets\Musik.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\1_Menu_Master.mp3
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\1_Menu_Master.mp3
-    projectPath: Assets\Musik\1_Menu_Master.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\1_Menu_Master.mp3.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\1_Menu_Master.mp3.meta
-    projectPath: Assets\Musik\1_Menu_Master.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\coin.mp3
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\coin.mp3
-    projectPath: Assets\Musik\coin.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\coin.mp3.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\coin.mp3.meta
-    projectPath: Assets\Musik\coin.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\drop_003.ogg
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\drop_003.ogg
-    projectPath: Assets\Musik\drop_003.ogg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\drop_003.ogg.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\drop_003.ogg.meta
-    projectPath: Assets\Musik\drop_003.ogg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\footstep.mp3
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\footstep.mp3
-    projectPath: Assets\Musik\footstep.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\footstep.mp3.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\footstep.mp3.meta
-    projectPath: Assets\Musik\footstep.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\select_006.ogg
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\select_006.ogg
-    projectPath: Assets\Musik\select_006.ogg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\select_006.ogg.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\select_006.ogg.meta
-    projectPath: Assets\Musik\select_006.ogg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\select_007.ogg
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\select_007.ogg
-    projectPath: Assets\Musik\select_007.ogg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\select_007.ogg.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\select_007.ogg.meta
-    projectPath: Assets\Musik\select_007.ogg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\stepstone_5.wav
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\stepstone_5.wav
-    projectPath: Assets\Musik\stepstone_5.wav
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Musik\stepstone_5.wav.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Musik\stepstone_5.wav.meta
-    projectPath: Assets\Musik\stepstone_5.wav.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Prefabs\Peri.prefab
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\Peri.prefab
-    projectPath: Assets\Prefabs\Peri.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Assets\Prefabs\SFX.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX.meta
-    projectPath: Assets\Prefabs\SFX.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Prefabs\SFX\FootSetpSFX.prefab
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\FootSetpSFX.prefab
-    projectPath: Assets\Prefabs\SFX\FootSetpSFX.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Prefabs\SFX\FootSetpSFX.prefab.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\FootSetpSFX.prefab.meta
-    projectPath: Assets\Prefabs\SFX\FootSetpSFX.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Prefabs\SFX\LeftRightSFX.prefab
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\LeftRightSFX.prefab
-    projectPath: Assets\Prefabs\SFX\LeftRightSFX.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Prefabs\SFX\LeftRightSFX.prefab.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\LeftRightSFX.prefab.meta
-    projectPath: Assets\Prefabs\SFX\LeftRightSFX.prefab.meta
+  - path: catchingDream_game\Assets\Prefabs\SFX\NisanSFX.prefab.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\NisanSFX.prefab.meta
+    projectPath: Assets\Prefabs\SFX\NisanSFX.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -248,14 +673,8 @@ MonoBehaviour:
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\PeriSoundEffect.prefab
     projectPath: Assets\Prefabs\SFX\PeriSoundEffect.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Prefabs\SFX\PeriSoundEffect.prefab.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Prefabs\SFX\PeriSoundEffect.prefab.meta
-    projectPath: Assets\Prefabs\SFX\PeriSoundEffect.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Assets\Scenes\Level 1.unity
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Level
       1.unity
@@ -281,37 +700,6 @@ MonoBehaviour:
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Levels.unity
     projectPath: Assets\Scenes\Levels.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Scenes\Levels.unity.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Levels.unity.meta
-    projectPath: Assets\Scenes\Levels.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Scenes\Main Menu.unity
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Scenes\Main
-      Menu.unity
-    projectPath: Assets\Scenes\Main Menu.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script\btnFX.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\btnFX.cs
-    projectPath: Assets\Script\btnFX.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\btnFX.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\btnFX.cs.meta
-    projectPath: Assets\Script\btnFX.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\ButtonMainMenu.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\ButtonMainMenu.cs
-    projectPath: Assets\Script\ButtonMainMenu.cs
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: catchingDream_game\Assets\Script\countdownTimer.cs
@@ -320,36 +708,72 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: catchingDream_game\Assets\Script\EndGameManager.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\EndGameManager.cs
+    projectPath: Assets\Script\EndGameManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\EndGameManager.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\EndGameManager.cs.meta
+    projectPath: Assets\Script\EndGameManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\endGameObstacle.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\endGameObstacle.cs
+    projectPath: Assets\Script\endGameObstacle.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\endGameObstacle.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\endGameObstacle.cs.meta
+    projectPath: Assets\Script\endGameObstacle.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\EndGameScore.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\EndGameScore.cs
+    projectPath: Assets\Script\EndGameScore.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\EndGameScore.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\EndGameScore.cs.meta
+    projectPath: Assets\Script\EndGameScore.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: catchingDream_game\Assets\Script\GameOverManager.cs
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\GameOverManager.cs
     projectPath: Assets\Script\GameOverManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\GameOverManager.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\GameOverManager.cs.meta
-    projectPath: Assets\Script\GameOverManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\GamePauseManager.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\GamePauseManager.cs
-    projectPath: Assets\Script\GamePauseManager.cs
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: catchingDream_game\Assets\Script\monster.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\monster.cs
+    projectPath: Assets\Script\monster.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script\levelsmenubutton.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\levelsmenubutton.cs
-    projectPath: Assets\Script\levelsmenubutton.cs
+  - path: catchingDream_game\Assets\Script\ObjekAkhir.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\ObjekAkhir.cs
+    projectPath: Assets\Script\ObjekAkhir.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: catchingDream_game\Assets\Script\levelsmenubutton.cs.meta
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\levelsmenubutton.cs.meta
-    projectPath: Assets\Script\levelsmenubutton.cs.meta
+  - path: catchingDream_game\Assets\Script\ObjekAkhir.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\ObjekAkhir.cs.meta
+    projectPath: Assets\Script\ObjekAkhir.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\obstacle.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\obstacle.cs
+    projectPath: Assets\Script\obstacle.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: catchingDream_game\Assets\Script\peri.cs
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\peri.cs
     projectPath: Assets\Script\peri.cs
@@ -362,33 +786,63 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script\repeatingBG.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\repeatingBG.cs
-    projectPath: Assets\Script\repeatingBG.cs
+  - path: catchingDream_game\Assets\Script\scoreManager.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\scoreManager.cs
+    projectPath: Assets\Script\scoreManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\scoreManager.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\scoreManager.cs.meta
+    projectPath: Assets\Script\scoreManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\shake.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\shake.cs
+    projectPath: Assets\Script\shake.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script\spawner.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\spawner.cs
-    projectPath: Assets\Script\spawner.cs
+  - path: catchingDream_game\Assets\Script\SwipeManager.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\SwipeManager.cs
+    projectPath: Assets\Script\SwipeManager.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Assets\Script\spawnerTree.cs
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\spawnerTree.cs
-    projectPath: Assets\Script\spawnerTree.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Script\SwipeManager.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Script\SwipeManager.cs.meta
+    projectPath: Assets\Script\SwipeManager.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\spawnerEndGame.cs
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\spawnerEndGame.cs
+    projectPath: Assets\spawnerEndGame.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\spawnerEndGame.cs.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\spawnerEndGame.cs.meta
+    projectPath: Assets\spawnerEndGame.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Sprite\save.png
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\save.png
+    projectPath: Assets\Sprite\save.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: catchingDream_game\Assets\Sprite\save.png.meta
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Assets\Sprite\save.png.meta
+    projectPath: Assets\Sprite\save.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: catchingDream_game\Library\ArtifactDB
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\AssetImportState
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\AssetImportState
-    projectPath: Library\AssetImportState
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -401,24 +855,6 @@ MonoBehaviour:
   - path: catchingDream_game\Library\CurrentLayout-default.dwlt
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\EditorUserBuildSettings.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\expandedItems
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\expandedItems
-    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -470,21 +906,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -500,21 +924,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -524,21 +936,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -554,27 +954,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.Mathematics.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.Mathematics.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -590,27 +972,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -620,21 +984,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\UnityEditor.UI.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -644,39 +996,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: catchingDream_game\Library\ScriptAssemblies\UnityEngine.UI.dll
     fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ScriptMapper
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -686,27 +1008,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: catchingDream_game\Library\SpriteAtlasDatabase.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\Library\SpriteAtlasDatabase.asset
-    projectPath: Library\SpriteAtlasDatabase.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\ProjectSettings\EditorBuildSettings.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\ProjectSettings\ProjectSettings.asset
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: catchingDream_game\ProjectSettings\ProjectVersion.txt
-    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
+  - path: catchingDream_game\ProjectSettings\TagManager.asset
+    fullPath: D:\Works\Grafkom\catching-dream\catchingDream_game\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

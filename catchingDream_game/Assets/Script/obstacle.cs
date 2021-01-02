@@ -7,6 +7,8 @@ public class obstacle : MonoBehaviour
     public int damage = 15;
     public float speed;
     private shake shake;
+    
+    public int score = -10;
 
     private void Start()
     {
@@ -24,6 +26,7 @@ public class obstacle : MonoBehaviour
             // Player take damage!
             shake.CamShake();
             other.GetComponent<player>().currentHealth -= damage;
+            FindObjectOfType<scoreManager>().addScore(score);
             // Debug.Log(other.GetComponent<player>().currentHealth);
             Destroy(gameObject);
         }

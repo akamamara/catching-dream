@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class monster : MonoBehaviour
 {
+	//public GameObject BloodEffect;
+	public GameObject[] BloodAnim;
+	public GameObject BiteSFX;
 	public float speed;
 
 	/* private Animator anim;
@@ -35,10 +38,13 @@ public class monster : MonoBehaviour
 	{
 		if (other.CompareTag("Player"))
 		{
+			//Instantiate(BloodEffect, transform.position, Quaternion.identity);
+			Instantiate(BiteSFX, transform.position, Quaternion.identity);
 			// Player take damage!
 			other.GetComponent<player>().currentHealth = 0;
+			other.GetComponent<player>().destroyPlayer();
 			// Debug.Log(other.GetComponent<player>().currentHealth);
-			Destroy(gameObject);
+			// Destroy(gameObject);
 		}
 	}
 }

@@ -6,9 +6,11 @@ public class peri : MonoBehaviour
 {
 	public int addSanity = 10;
 	public float speed;
-
+	
 	public GameObject effect;
 	public GameObject PeriEffectSound;
+	
+	public int score = 15;
 	/* private Animator anim;
 	public GameObject[] ObjectToAnimate;
 	public float TimeToAnimate;
@@ -44,6 +46,7 @@ public class peri : MonoBehaviour
 			
 			//effect
 			Instantiate(effect, transform.position, Quaternion.identity);
+			FindObjectOfType<scoreManager>().addScore(score);
 
 			// healing player
 			other.GetComponent<player>().currentHealth += addSanity;
