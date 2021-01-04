@@ -28,6 +28,16 @@ Mengumpulkan peri untuk mempertahankan sanitynya agar tetap tinggi sampai waktun
 * Arrow kanan/kiri
 * Swipe kanan/kiri
 
+## Screenshot
+<p float='left'>
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h15m45s704.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h13m27s356.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h13m51s427.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h14m02s440.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h14m11s553.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h14m35s073.png" width=240 />
+</p>
+
 ## Tools yang digunakan
 * `Unity Hub 2.4.2` 
    * Sebagai platform kolaborasi
