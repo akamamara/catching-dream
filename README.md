@@ -34,8 +34,8 @@ Mengumpulkan peri untuk mempertahankan sanitynya agar tetap tinggi sampai waktun
    * Keunggulannya : Nice collab, gratis, open source
 * `Unity Editor 2019.4.13f1 dan 2019.4.16.f1`
    * Game Editor
-* Game berbentuk 2D
-* Perspektif game berbentuk Top Down View
+* `Game berbentuk 2D`
+* `Perspektif game berbentuk Top Down View`
 * `AI dan Photoshop`
    * Digunakan untuk pembuatan assets
    * Keunggulan :Familiar, mudah, cocok dalam pembuatan assets seperti yang sudah dikonsepkan.
