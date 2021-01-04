@@ -3,9 +3,9 @@
 ## Pembagian Role
 | No | Nama                               | Role            |
 |----|------------------------------------|-----------------|
-| 1  | Aldi Oktaviana Hidayat   G64180005 | Game Programmer |
-| 2  | Zahra Aulia Firdausi     G64180030 | Game Design     |
-| 3  | Syukriyatul Hanifa       G64180062 | Game Artist     |
+| 1  | Aldi Oktaviana Hidayat - G64180005 | Game Programmer |
+| 2  | Zahra Aulia Firdausi   - G64180030 | Game Design     |
+| 3  | Syukriyatul Hanifa     - G64180062 | Game Artist     |
 
 ## Story Line
 Catching Dream merupakan endless runner mobile game. Permainan dimulai ketika karakter yang bernama airy terjebak dalam mimpi buruknya, pemain pun harus berlari sambil mempertahankan kesadarannya untuk menemukan jalan keluar. Saat berlari, pemain dapat menggeser karakter ke kanan atau kiri untuk mengambil peri agar kesadarannya tetap terjaga dan menghindari monster serta batu nisan yang menjadi rintangan dalam menemukan jalan keluar.
