@@ -17,6 +17,7 @@ public class EndGameManager : MonoBehaviour
             //Debug.Log("Panel ditutup!");
         }
     }
+   
     public void openPanel()
     {
         isPanelOpen = true;
@@ -30,9 +31,11 @@ public class EndGameManager : MonoBehaviour
         PanelCongrats.SetActive(false);
         Time.timeScale = 1;
     }
+    
+	
     public void loadNextLevel()
     {
-        if (SceneManager.GetActiveScene().buildIndex == 4)
+        if (SceneManager.GetActiveScene().buildIndex == 5)
         {
             closePanel();
             SceneManager.LoadScene("Levels");

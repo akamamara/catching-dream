@@ -25,7 +25,7 @@ public class spawnerTree : MonoBehaviour
 
 	private void Update()
 	{
-		if (timeBtwSpawn <= 0 && countdownTimer.getTimer() < countdownTimer.getStartTimer() - 1)
+		if (timeBtwSpawn <= 0 && (countdownTimer.getTimer() < countdownTimer.getStartTimer() - 1))
 		{
 			int rand = Random.Range(0, treePatterns.Length);
 			if(sebelumnya[0] == sebelumnya[1])

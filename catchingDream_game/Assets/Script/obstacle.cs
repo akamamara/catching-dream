@@ -1,18 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class obstacle : MonoBehaviour
 {
     public int damage = 15;
-    public float speed;
+    public float speed = 5;
     private shake shake;
     
-    public int score = -10;
+    public int score = -15;
 
     private void Start()
     {
         shake = GameObject.FindGameObjectWithTag("ScreenShake").GetComponent<shake>();
+        if (SceneManager.GetActiveScene().name == "Level 1")
+            speed = 5;
+        if (SceneManager.GetActiveScene().name == "Level 2")
+            speed *= (float)1.25;
+        if (SceneManager.GetActiveScene().name == "Level 3")
+            speed *= (float)1.5;
     }
     private void Update()
     {

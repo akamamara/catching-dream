@@ -24,7 +24,7 @@ public class spawner : MonoBehaviour
 	
 	private void Update()
 	{
-		if (timeBtwSpawn <= 0 && countdownTimer.getTimer() < countdownTimer.getStartTimer() - 1)
+		if (timeBtwSpawn <= 0 && (countdownTimer.getTimer() < countdownTimer.getStartTimer() - 1))
 		{
 			Debug.Log(countdownTimer.getTimer());
             // Randomize spawn object

@@ -30,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 1664032164016996816}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.14, y: 0.11, z: 0.14}
+  m_LocalScale: {x: 0.28, y: 0.28, z: 0.28}
   m_Children:
   - {fileID: 7348902817219187817}
   m_Father: {fileID: 0}
@@ -101,7 +101,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 4
+  m_Radius: 2
 --- !u!114 &-4178946098039483780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119,6 +119,7 @@ MonoBehaviour:
   effect: {fileID: 1113930222257317983, guid: b56ae36cd4b6b094eabf1fb170d3d06f, type: 3}
   PeriEffectSound: {fileID: 3715410411759685620, guid: 1b0f68d0927a97367a3a89b63e0ca929,
     type: 3}
+  score: 10
 --- !u!114 &-3160487081289218371
 MonoBehaviour:
   m_ObjectHideFlags: 0

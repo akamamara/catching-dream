@@ -1,15 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class monster : MonoBehaviour
 {
-	//public GameObject BloodEffect;
+	public GameObject BloodEffect;
 	public GameObject[] BloodAnim;
 	public GameObject BiteSFX;
-	public float speed;
+	public float speed = 5;
 
-	/* private Animator anim;
+    /* private Animator anim;
 	public GameObject[] ObjectToAnimate;
 	public float TimeToAnimate;
 	private void Start ()
@@ -28,8 +29,16 @@ public class monster : MonoBehaviour
 		yield return new WaitForSeconds(TimeToAnimate);
 		anim.enabled = true;
 	} */
-
-	private void Update()
+    private void Start()
+    {
+		if (SceneManager.GetActiveScene().name == "Level 1")
+			speed = 5;
+		if (SceneManager.GetActiveScene().name == "Level 2")
+			speed *= (float)1.25;
+		if (SceneManager.GetActiveScene().name == "Level 3")
+			speed *= (float)1.5;
+	}
+    private void Update()
 	{
 		transform.Translate(Vector2.down * speed * Time.deltaTime);
 	}
@@ -38,7 +47,7 @@ public class monster : MonoBehaviour
 	{
 		if (other.CompareTag("Player"))
 		{
-			//Instantiate(BloodEffect, transform.position, Quaternion.identity);
+			Instantiate(BloodEffect, transform.position, Quaternion.identity);
 			Instantiate(BiteSFX, transform.position, Quaternion.identity);
 			// Player take damage!
 			other.GetComponent<player>().currentHealth = 0;

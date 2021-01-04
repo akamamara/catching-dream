@@ -12,11 +12,10 @@ public class GameOverManager : MonoBehaviour
 	
 	private void Start(){
 		if(gameHasEnded == false){
-			audioSource = GetComponent<AudioSource>();	
-			audioSource.Play();
 		}
 	}
-
+	
+	
 	public void endGame()
 	{
 		if(gameHasEnded == false)
@@ -25,7 +24,6 @@ public class GameOverManager : MonoBehaviour
 			Invoke("stopTime", restartDelay);
 			Invoke("openPanel", restartDelay);
 			// Restart();
-			audioSource.Pause();
 		}
 		 
 	}
