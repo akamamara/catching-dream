@@ -29,19 +29,28 @@ Mengumpulkan peri untuk mempertahankan sanitynya agar tetap tinggi sampai waktun
 * Swipe kanan/kiri
 
 ## Tools yang digunakan
-* Unity Hub 2.4.2 
-   * Nice collab, gratis, open source
-* Unity Editor 2019.4.13f1 dan 2019.4.16.f1
-* Game ini berbentuk 2D, Perspektif game berbentuk Top Down View
-* AI dan Photoshop ( untuk pembuatan assets )
-   Digunakan karena familiar, mudah, cocok dalam pembuatan assets seperti yang udah dikonsepkan.
-* Visual studio + GEdit 
-* Bahasa C#
-* Code swipe manager 
-* Endless-Runner-Game/SwipeManager.cs at master · Chaker-Gamra/Endless-Runner-Game (github.com)
-* Github -> dokumentasi projek
-* Canva -> pembuatan powerpoint dan video identitas
-* Adobe premiere Pro -> untuk mengedit video
+* `Unity Hub 2.4.2` 
+   * Sebagai platform kolaborasi
+   * Keunggulannya : Nice collab, gratis, open source
+* `Unity Editor 2019.4.13f1 dan 2019.4.16.f1`
+   * Game Editor
+* Game berbentuk 2D
+* Perspektif game berbentuk Top Down View
+* `AI dan Photoshop`
+   * Digunakan untuk pembuatan assets
+   * Keunggulan :Familiar, mudah, cocok dalam pembuatan assets seperti yang sudah dikonsepkan.
+* `Visual studio + GEdit`
+   * Text Editor
+* `Bahasa C#`
+   * Bahasa pemrograman
+* `Code swipe manager` 
+   * Endless-Runner-Game/SwipeManager.cs at master · Chaker-Gamra/Endless-Runner-Game (github.com)
+* `Github` 
+   * Dokumentasi projek
+* `Canva`
+   * Pembuatan powerpoint dan video identitas
+* `Adobe premiere Pro`
+   * Digunakan untuk mengedit video
 
 ## Aset yang digunakan
 ### Sprite
