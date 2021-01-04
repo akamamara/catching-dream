@@ -29,7 +29,7 @@ Mengumpulkan peri untuk mempertahankan sanitynya agar tetap tinggi sampai waktun
 * Swipe kanan/kiri
 
 ## Tools yang digunakan
-* Unity Hub 2.4.2 ( keunggulan + alasan )? 
+* Unity Hub 2.4.2 
    * Nice collab, gratis, open source
 * Unity Editor 2019.4.13f1 dan 2019.4.16.f1
 * Game ini berbentuk 2D, Perspektif game berbentuk Top Down View
@@ -58,7 +58,7 @@ https://pin.it/5Nq0J5c
 ### Environtment
 * Background level 1:  tanah gersang
 * Background level 2: tanah berbatu
-* Bakgrond level 3: tanah berbatu dengan r
+* Background level 3: tanah berbatu dengan rumput
 * Pohon di kanan kiri
 
 ### Musik dan SFX
