@@ -1,11 +1,11 @@
 # Catching Dream
 
 ## Pembagian Role
-| No | Nama                   | Role            |
-|----|------------------------|-----------------|
-| 1  | Aldi Oktaviana Hidayat | Game Programmer |
-| 2  | Zahra Aulia Firdausi   | Game Design     |
-| 3  | Syukriyatul Hanifa     | Game Artist     |
+| No | Nama                               | Role            |
+|----|------------------------------------|-----------------|
+| 1  | Aldi Oktaviana Hidayat - G64180005 | Game Programmer |
+| 2  | Zahra Aulia Firdausi   - G64180030 | Game Design     |
+| 3  | Syukriyatul Hanifa     - G64180062 | Game Artist     |
 
 ## Story Line
 Catching Dream merupakan endless runner mobile game. Permainan dimulai ketika karakter yang bernama airy terjebak dalam mimpi buruknya, pemain pun harus berlari sambil mempertahankan kesadarannya untuk menemukan jalan keluar. Saat berlari, pemain dapat menggeser karakter ke kanan atau kiri untuk mengambil peri agar kesadarannya tetap terjaga dan menghindari monster serta batu nisan yang menjadi rintangan dalam menemukan jalan keluar.
@@ -28,20 +28,39 @@ Mengumpulkan peri untuk mempertahankan sanitynya agar tetap tinggi sampai waktun
 * Arrow kanan/kiri
 * Swipe kanan/kiri
 
+## Screenshot
+<p float='left'>
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h15m45s704.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h13m27s356.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h13m51s427.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h14m02s440.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h14m11s553.png" width=240 />
+  <img src = "Screenshot/vlcsnap-2021-01-04-11h14m35s073.png" width=240 />
+</p>
+
 ## Tools yang digunakan
-* Unity Hub 2.4.2 
-   * Nice collab, gratis, open source
-* Unity Editor 2019.4.13f1 dan 2019.4.16.f1
-* Game ini berbentuk 2D, Perspektif game berbentuk Top Down View
-* AI dan Photoshop ( untuk pembuatan assets )
-   Digunakan karena familiar, mudah, cocok dalam pembuatan assets seperti yang udah dikonsepkan.
-* Visual studio + GEdit 
-* Bahasa C#
-* Code swipe manager 
-* Endless-Runner-Game/SwipeManager.cs at master · Chaker-Gamra/Endless-Runner-Game (github.com)
-* Github -> dokumentasi projek
-* Canva -> pembuatan powerpoint dan video identitas
-* Adobe premiere Pro -> untuk mengedit video
+* `Unity Hub 2.4.2` 
+   * Sebagai platform kolaborasi
+   * Keunggulannya : Nice collab, gratis, open source
+* `Unity Editor 2019.4.13f1 dan 2019.4.16.f1`
+   * Game Editor
+* `Game berbentuk 2D`
+* `Perspektif game berbentuk Top Down View`
+* `AI dan Photoshop`
+   * Digunakan untuk pembuatan assets
+   * Keunggulan :Familiar, mudah, cocok dalam pembuatan assets seperti yang sudah dikonsepkan.
+* `Visual studio + GEdit`
+   * Text Editor
+* `Bahasa C#`
+   * Bahasa pemrograman
+* `Code swipe manager` 
+   * Endless-Runner-Game/SwipeManager.cs at master · Chaker-Gamra/Endless-Runner-Game (github.com)
+* `Github` 
+   * Dokumentasi projek
+* `Canva`
+   * Pembuatan powerpoint dan video identitas
+* `Adobe premiere Pro`
+   * Digunakan untuk mengedit video
 
 ## Aset yang digunakan
 ### Sprite
